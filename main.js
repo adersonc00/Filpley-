@@ -389,9 +389,9 @@
           }
         },
         {
-          title: 'Os Cavaleiros do Zodíaco - Saint Seiya: O Começo',
-          description: 'Irmã sequestrada involuntariamente toca em vivaquepoderes ocultos, ele descobre que pode ser a única pessoa vivaque pode proteger uma Deusa',
-          backgroundImage: 'https://dougelias.tv/wp-content/uploads/2024/01/Os-Cavaleiros-do-Zodiaco-2023-Poster-scaled.jpg',
+          title: 'Deadpool & Wolverine',
+          description: 'Wolverine está se recuperando quando cruza seu caminho com Deadpool.',
+          backgroundImage: 'https://www.telemadrid.es/2024/08/21/noticias/cultura/_2699440047_46715716_1300x731.jpg',
           content: {
             title: 'Stranger Things',
             image: 'https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVuVC7HrxKlCBRl8WsWm8tqgKk0wfkPpyg-GsRUVf4BT9Gw2rWPALkzYI3CLrB7_7lUW9SBYvMvWMhAIGp1DQz4vZGe8NuoaIDoD.jpg',
