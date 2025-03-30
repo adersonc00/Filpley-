@@ -587,7 +587,7 @@
           { 
             title: 'Gantz:O', 
             image: 'https://resizing.flixster.com/4UsM9xLde5q2xzeO_ohc5cL6IT0=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13849642_v_h9_aa.jpg', 
-            url: 'http://10.41.224.115:39537/',
+            url: 'http://vods.conexao-vs.live:80/movie/647045.mp4?token=8f6114b81e51d6e1dae59b2eb3edafade09815724d14b1028e4722fdef1b7f19&expires=1743537002',
             description: 'Após o acidente, eles acordam com diversas pessoas numa sala com uma estranha esfera negra chamada Gantz, que os obriga a entrar num jogo cruel e mortal contra alienígenas que vagueiam pelo Japão.', 
             genres: ['acao','aventura','animacao','romance'],
             size: '1.5 GB', 
